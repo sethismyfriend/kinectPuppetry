@@ -1,2 +1,2 @@
 # kinectPuppetry
-A tool for recording foreground videos with the kinect 1 camera for theatrical purposes.
+This code was created in collaboration with Dan Butterworth to explore how to use depth cameras for live performance with shadow puppet screens. I'm putting it online so that we can collaborate but anyone is free to fork this code and use it for their own purposes. We use quicktime to record videos with a black background in order to later replay the videos during performances with shadow puppets or live performers with a large enough screen. 
